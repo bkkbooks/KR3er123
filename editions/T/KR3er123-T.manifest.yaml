@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3er123/T/v1
+canonical_location: https://kanripo.org/bkk/KR3er123/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫師秘笈
+  identifiers:
+    krp: KR3er123
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er123.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3er123_001-T.yaml, hash: 'sha256:91a048a1cebfe1a7bc6ec7d1d9c0e1940710e585ed40faab52affe2c968a04a0'}
+table_of_contents: []
+hash: sha256:894f1ec88f731a41096ffbf5e6b08a16b8ef4d3601da9ab921474033aa5d4d85
