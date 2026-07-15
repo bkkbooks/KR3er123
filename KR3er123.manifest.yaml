@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er123/v1
 canonical_location: https://kanripo.org/bkk/KR3er123/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 醫師秘笈
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3er123_001.yaml
     hash: sha256:91a048a1cebfe1a7bc6ec7d1d9c0e1940710e585ed40faab52affe2c968a04a0
 table_of_contents: []
-hash: sha256:a9398ce97d4892a7dfe88bd75afa50607c37a2c40be8590a1757a17b4f38a67c
+hash: sha256:7ed645ec6d474b57133e621d2ae6721439a693acb0f73148d32965f56cdcaeef
